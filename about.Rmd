@@ -66,16 +66,17 @@ p.caption {
 
 ## About me
 
-I am interested in sciences and mostly in biology and computer sciences.
+I am interested in sciences, mostly in biology and computer sciences.
 
 
 ## Education
 
 I am from Paris, France.
 
-I graduated from a MsC in bioinformatics in Université d'Evry Val d'Essonnes. 
+I graduated from MsC [GENIOMHE](https://www.universite-paris-saclay.fr/formation/master/bio-informatique/m2-genomics-informatics-and-mathematics-health-and-environment) in bioinformatics in [Université d'Evry](https://www.univ-evry.fr/accueil.html). 
 
-I spent two years in a laboratory in immunology (i3 lab) as a research engineer in metagenomics.
+I spent two years in a laboratory in immunology [i3 laboratory](https://i3-immuno.fr/en/) as a research engineer in metagenomics.
+
 
 
 
