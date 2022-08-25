@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to Gabriel Pires website!"
+output: 
+    html_document:
+        includes:
+            in_header: cover.html
 ---
 
 <style type="text/css">
@@ -64,4 +68,9 @@ p.caption {
 
 </style>
 
-You're up and running!
+I am an engineer in bioinformatics.
+
+[Read more about me..](about.html)
+
+
+

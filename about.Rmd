@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: ""
 ---
 
 <style type="text/css">
@@ -64,6 +64,19 @@ p.caption {
 
 </style>
 
-## Header
+## About me
 
-Say more about you here.
+I am interested in sciences and mostly in biology and computer sciences.
+
+
+## Education
+
+I am from Paris, France.
+
+I graduated from a MsC in bioinformatics in Université d'Evry Val d'Essonnes. 
+
+I spent two years in a laboratory in immunology (i3 lab) as a research engineer in metagenomics.
+
+
+
+
