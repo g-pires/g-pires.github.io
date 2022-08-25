@@ -1,9 +1,9 @@
 ---
 title: "Welcome to my website!"
 output: 
-    html_document:
-        includes:
-            in_header: cover.html
+    # html_document:
+    #     includes:
+    #         in_header: cover.html
 ---
 
 <style type="text/css">

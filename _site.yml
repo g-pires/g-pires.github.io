@@ -3,6 +3,7 @@ output_dir: "."
 navbar:
   title: "Gabriel Pires"                             # CHANGE HERE 
   type: inverse
+  img: cover.png
   left:
     - text: "Home"
       icon: fa-home
