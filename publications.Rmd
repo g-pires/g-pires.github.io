@@ -62,7 +62,10 @@ p.caption {
   margin-left: 10%;  
   text-align: justify;
 } 
-
+.navbar{
+  background-color: #428BCA; 
+  border-color: #428BCA;
+}
 </style>
 
 <br>

@@ -14,7 +14,7 @@ navbar:
       icon: fa-file-pdf-o
       href: CV.pdf
     - text: "Publications"
-      icon: fa-rss
+      icon: fa-list
       href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
