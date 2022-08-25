@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 ---
 
 
@@ -65,11 +65,10 @@ p.caption {
 
 </style>
 
+<br>
+
+## Publications
 
 
-## Low-dose interleukin-2 shapes a tolerogenic gut microbiota that improves autoimmunity and gut inflammation 
-**Nicolas Tchitchek, Otriv Nguekap Tchoumba, Gabriel Pires, Sarah Dandou, Julien Campagne, Guillaume Churlaud, Gwladys Fourcade, Thomas W Hoffmann, Francesco Strozzi, Camille Gaal, Christophe Bonny, Emmanuelle Le Chatelier, Stanislav Dusko Erlich, Harry Sokol, David Klatzmann**
+- Nicolas Tchitchek, Otriv Nguekap Tchoumba, Gabriel Pires, et al. "Low-dose interleukin-2 shapes a tolerogenic gut microbiota that improves autoimmunity and gut inflammation." *JCI Insight* (2022) [[Open Access]](https://doi.org/10.1172/jci.insight.159406)
 
-https://pubmed.ncbi.nlm.nih.gov/35917175/ 
-
-PMID: 35917175 DOI: https://doi.org/10.1172/jci.insight.159406
