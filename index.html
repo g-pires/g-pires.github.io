@@ -34,7 +34,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-<div><img src="cover.png" width="10%" align="right"></div>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -223,10 +222,6 @@ $(document).ready(function () {
 .tabset-dropdown > .nav-tabs > li {
   display: none;
 }
-#header-img {
-  max-height:50px;
-
-}
 </style>
 
 <!-- code folding -->
@@ -244,7 +239,7 @@ $(document).ready(function () {
 
 
 
-<div class="navbar navbar-inverse  navbar-fixed-top" style="background-color: #428BCA; border-color: #428BCA;" role="navigation">
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
@@ -308,14 +303,14 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <img id="header-img" src="cover.png" class="pull-right" alt="">
+  <a>
+    <span class=" cover.html"></span>
+     
+  </a>
 </li>
       </ul>
-      
     </div><!--/.nav-collapse -->
-
   </div><!--/.container -->
-
 </div><!--/.navbar -->
 
 <div id="header">
@@ -386,7 +381,15 @@ p.caption {
   margin-left: 10%;  
   text-align: justify;
 } 
+.navbar{
+  background-color: #428BCA; 
+  border-color: #428BCA;
+}
 
+#header-img {
+  max-height:50px;
+
+}
 </style>
 <p>I am an engineer in bioinformatics.</p>
 <p><a href="about.html">Read more about me..</a></p>
