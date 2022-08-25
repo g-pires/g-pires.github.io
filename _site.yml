@@ -1,7 +1,7 @@
 name: "Gabriel Pires"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Gabriel Pires"                             # CHANGE HERE 
+  title:  "Gabriel Pires"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -25,8 +25,9 @@ navbar:
       href: https://github.com/g-pires    
     - text: "LinkedIn" 
       icon: fa-linkedin
-      href: https://www.linkedin.com/in/gabriel-pires-0b263b158/
+      href: https://www.linkedin.com/in/gabriel-pires-0b263b158/  
+    
 output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
+   html_document:
+     theme: cosmo
+     highlight: textmate

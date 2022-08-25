@@ -1,5 +1,9 @@
 ---
 title: "Welcome to my website!"
+output:
+  html_document:
+    includes:
+      in_header: cover.html
 ---
 
 <style type="text/css">
@@ -66,10 +70,6 @@ p.caption {
   border-color: #428BCA;
 }
 
-#header-img {
-  max-height:50px;
-
-}
 </style>
 
 
