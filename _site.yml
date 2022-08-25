@@ -22,10 +22,13 @@ navbar:
       href: mailto:gabriel.pires081196@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/g-pires    
+      href: https://github.com/g-pires      
+    - text: "GitLab"
+      icon: fa-gitlab
+      href: https://gitlab.com/gpires
     - text: "LinkedIn" 
       icon: fa-linkedin
-      href: https://www.linkedin.com/in/gabriel-pires-0b263b158/  
+      href: https://www.linkedin.com/in/gabriel-pires-0b263b158/
     
 output:
    html_document:
