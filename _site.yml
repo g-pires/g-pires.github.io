@@ -13,9 +13,6 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: CV.pdf
-    - text: "Blog"
-      icon: fa-rss
-      href: https://g-pires.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
