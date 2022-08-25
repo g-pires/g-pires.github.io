@@ -19,7 +19,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:gabriel.pires091196@gmail.com                    # CHANGE HERE 
+      href: mailto:gabriel.pires081196@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/g-pires       # CHANGE HERE 
